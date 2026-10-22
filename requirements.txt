@@ -1,0 +1,2 @@
+# Runtime: Python 3.10+ standard library only.
+# Optional OCR: Windows Chinese OCR component or external Tesseract.
